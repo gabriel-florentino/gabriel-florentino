@@ -16,7 +16,7 @@
 
 ## 📂 Projetos em destaque
 
-- 🔹 [**Recrutei**](https://github.com/seuusuario/recrutei) – Plataforma de engajamento político e transparência pública.  
+- 🔹 [**Recrutei**](https://github.com/gabriel-florentino/recrutei) – Plataforma de engajamento político e transparência pública.  
   > Componente Header finalizado com menu animado, toggle de dark mode, CTA responsivo e hooks personalizados para navegação.
 
 ---
