@@ -23,5 +23,5 @@
 
 📫 **Entre em contato comigo:**
 
-- [LinkedIn]((https://www.linkedin.com/in/gabriel-florentino/)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-florentino/)
 - [Instagram](https://www.instagram.com/dev_gabrielflorentino/)
