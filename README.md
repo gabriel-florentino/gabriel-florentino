@@ -16,7 +16,7 @@
 
 ## 📂 Projetos em destaque
 
-- 🔹 [**Recrutei**](https://github.com/gabriel-florentino/recruteii) – Plataforma de engajamento político e transparência pública.  
+- 🔹 [**Recrutei**](https://github.com/gabriel-florentino/recruteii) – Plataforma contratações reversa, onde empresas buscam funcionários.
   > Componente Header finalizado com menu animado, toggle de dark mode, CTA responsivo e hooks personalizados para navegação.
 
 ---
