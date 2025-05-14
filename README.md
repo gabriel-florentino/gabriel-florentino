@@ -24,4 +24,4 @@
 📫 **Entre em contato comigo:**
 
 - [LinkedIn]((https://www.linkedin.com/in/gabriel-florentino/)
-- [Instagram](https://instagram.com/seuusuario)
+- [Instagram](https://www.instagram.com/dev_gabrielflorentino/)
