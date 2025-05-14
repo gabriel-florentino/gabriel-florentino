@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o [Seu Nome ou Nickname]
+# 👋 Olá! Eu sou o Gabriel Florentino
 
 🎯 Desenvolvedor Front-end focado em React | JavaScript | UI/UX  
 🚀 Atualmente trabalhando no projeto **Recrutei**  
