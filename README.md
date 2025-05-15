@@ -5,13 +5,6 @@
 📚 Apaixonado por aprender, criar interfaces intuitivas e resolver problemas reais  
 🎨 Entusiasta de acessibilidade e design centrado no usuário  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-florentino" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-florentino" />
-</a>
-
 ## 💼 Tecnologias
 
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
@@ -28,17 +21,18 @@
 
 ---
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-florentino&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-florentino" />
+</a>
+
 📫 **Entre em contato comigo:**
 
 <div> 
   <a href="https://www.instagram.com/dev_gabrielflorentino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-florentino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
-
-  
-
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
-
 
 
