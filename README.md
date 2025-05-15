@@ -5,8 +5,6 @@
 📚 Apaixonado por aprender, criar interfaces intuitivas e resolver problemas reais  
 🎨 Entusiasta de acessibilidade e design centrado no usuário  
 
-## 💼 Tecnologias
-
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-000?style=flat&logo=tailwindcss)
