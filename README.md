@@ -28,12 +28,16 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-florentino&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-florentino&layout=compact&theme=dark" />
-</a>
+<table>
+  <tr>
+    <td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=gabriel-florentino&show_icons=true&theme=dark" />
+    </td>
+    <td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-florentino&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
