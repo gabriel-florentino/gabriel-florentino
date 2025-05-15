@@ -20,7 +20,8 @@
 
 ## 📂 Projetos em destaque
 
-- 🔹 [**Recrutei**](https://github.com/gabriel-florentino/recruteii) – Plataforma de contratações reversa, onde empresas buscam funcionários.  
+- 🔹 [**Recrutei**](https://github.com/gabriel-florentino/recruteii) – Plataforma de contratações reversa, onde empresas buscam funcionários.
+  > 💡 Footer responsivo, CTA responsivo e reaproveitamento de components do Header.
   > 💡 Header com menu animado, dark mode toggle, CTA responsivo e hooks personalizados.
 
 ---
