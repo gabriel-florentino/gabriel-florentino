@@ -5,8 +5,12 @@
 📚 Apaixonado por aprender, criar interfaces intuitivas e resolver problemas reais  
 🎨 Entusiasta de acessibilidade e design centrado no usuário  
 
-![Meus status](https://github-readme-stats.vercel.app/api?username=gabriel-florentino&show_icons=true&theme=dark)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/gabriel-florentino/recruteii/)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-florentino" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-florentin&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## 💼 Tecnologias
 
