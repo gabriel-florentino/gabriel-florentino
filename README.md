@@ -5,7 +5,8 @@
 📚 Apaixonado por aprender, criar interfaces intuitivas e resolver problemas reais  
 🎨 Entusiasta de acessibilidade e design centrado no usuário  
 
-![Gabriel Florentino](https://github-readme-stats.vercel.app/api?username=gabriel-florentino&show_icons=true&theme=radical)
+![Meus status](https://github-readme-stats.vercel.app/api?username=gabriel-florentino&show_icons=true&theme=dark)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 ## 💼 Tecnologias
 
