@@ -14,9 +14,22 @@
 
 ## 📂 Projetos em destaque
 
-- 🔹 [**Recrutei**](https://github.com/gabriel-florentino/recruteii) – Plataforma de contratações reversa, onde empresas buscam funcionários.
-  > 💡 Footer responsivo, CTA responsivo e reaproveitamento de components do Header.
-  > 💡 Header com menu animado, dark mode toggle, CTA responsivo e hooks personalizados.
+- 🔹 [**Recrutei**](https://github.com/gabriel-florentino/login-recruteidev) – O **RecruteiDev Login** é o módulo responsável por oferecer um login completo, seguro e elegante para a plataforma RecruteiDev.
+
+A plataforma **RecruteiDev** nasce para facilitar a vida dos desenvolvedores iniciantes, oferecendo oportunidades reais e inovadoras. Diferente de um LinkedIn tradicional, aqui são as empresas que buscam os talentos — um verdadeiro *LinkedIn reverso*.
+
+---
+  > 💡Login com e-mail e senha com validações robustas (React Hook Form + Yup)
+  > 💡 Login via Google Authentication (OAuth)
+  > 💡 Recuperação de senha com envio de e-mail (backend para integração futura)
+  > 💡 Validação real de CPF com cálculo correto
+  > 💡 Máscara dinâmica de CPF com Cleave.js
+  > 💡 Proteção de rotas privadas com redirecionamento amigável
+  > 💡 Páginas de erro personalizadas para melhor UX
+  > 💡 Controle global de autenticação com Context API
+  > 💡 Animações fluidas com Framer Motion
+  > 💡 Diferenciação entre contas de desenvolvedor e empresa
+  > 💡 Permissões e acessos baseados no tipo de usuário
 
 ---
 
