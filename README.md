@@ -7,6 +7,7 @@
 
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-000?style=flat&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=vite)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
