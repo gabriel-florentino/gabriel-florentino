@@ -12,6 +12,23 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
 
+---
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=gabriel-florentino&show_icons=true&theme=dark" />
+    </td>
+    <td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-florentino&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📂 Projetos em destaque
 
 - 🔹 [**Recrutei**](https://github.com/gabriel-florentino/login-recruteidev) – O **RecruteiDev Login** é o módulo responsável por oferecer um login completo, seguro e elegante para a plataforma RecruteiDev.
@@ -29,21 +46,6 @@
 - 💡 Animações fluidas com Framer Motion
 - 💡 Diferenciação entre contas de desenvolvedor e empresa
 - 💡 Permissões e acessos baseados no tipo de usuário
-
----
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=gabriel-florentino&show_icons=true&theme=dark" />
-    </td>
-    <td>
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-florentino&layout=compact&theme=dark" />
-    </td>
-  </tr>
-</table>
 
 ---
 
