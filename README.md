@@ -18,17 +18,17 @@
 
 ---
 
-> 💡 Login com e-mail e senha com validações robustas (React Hook Form + Yup)
-> 💡 Login via Google Authentication (OAuth)
-> 💡 Recuperação de senha com envio de e-mail (backend para integração futura)
-> 💡 Validação real de CPF com cálculo correto
-> 💡 Máscara dinâmica de CPF com Cleave.js
-> 💡 Proteção de rotas privadas com redirecionamento amigável
-> 💡 Páginas de erro personalizadas para melhor UX
-> 💡 Controle global de autenticação com Context API
-> 💡 Animações fluidas com Framer Motion
-> 💡 Diferenciação entre contas de desenvolvedor e empresa
-> 💡 Permissões e acessos baseados no tipo de usuário
+- 💡 Login com e-mail e senha com validações robustas (React Hook Form + Yup)
+- 💡 Login via Google Authentication (OAuth)
+- 💡 Recuperação de senha com envio de e-mail (backend para integração futura)
+- 💡 Validação real de CPF com cálculo correto
+- 💡 Máscara dinâmica de CPF com Cleave.js
+- 💡 Proteção de rotas privadas com redirecionamento amigável
+- 💡 Páginas de erro personalizadas para melhor UX
+- 💡 Controle global de autenticação com Context API
+- 💡 Animações fluidas com Framer Motion
+- 💡 Diferenciação entre contas de desenvolvedor e empresa
+- 💡 Permissões e acessos baseados no tipo de usuário
 
 ---
 
@@ -49,7 +49,6 @@
 
 ## 📫 Entre em contato comigo
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_gabrielflorentino/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-florentino/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=gabrielflorentino.contato@gmail.com)
 
