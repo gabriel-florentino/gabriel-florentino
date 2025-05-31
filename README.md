@@ -1,20 +1,21 @@
 # 👋 Olá! Eu sou o Gabriel Florentino
 
-🎯 Desenvolvedor Front-end focado em React | Typescript | TailwindCSS | Node.js | UI/UX  
-🚀 Atualmente trabalhando no projeto **Recrutei**  
-📚 Apaixonado por aprender, criar interfaces intuitivas e resolver problemas reais  
-🎨 Entusiasta de acessibilidade e design centrado no usuário  
+🎯 Desenvolvedor Front-end apaixonado por transformar ideias em experiências funcionais e bonitas
+💻 Especializado em React, TypeScript, TailwindCSS e Node.js, com forte foco em componentização inteligente, acessibilidade e Atomic Design
+🚀 Atualmente liderando o desenvolvimento da plataforma Recrutei, um “LinkedIn reverso” que prioriza habilidades reais, não só currículos
+🎨 Entusiasta de UI/UX centrado no usuário, acreditando que design bom é aquele que ninguém precisa explicar
+📚 Viciado em aprender, refatorar, e criar soluções elegantes para problemas complexos
 
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-000?style=flat&logo=typescripte)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-000?style=flat&logo=tailwindcss)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=vite)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
-![Node](https://img.shields.io/badge/-Node-000?style=flat&logo=node)
-![Postgress](https://img.shields.io/badge/-Postgress-000?style=flat&logo=postgress)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=nodedotjs)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?style=flat&logo=prisma)
 
 ---
