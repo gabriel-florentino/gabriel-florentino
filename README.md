@@ -1,14 +1,10 @@
 # 👋 Olá! Eu sou o Gabriel Florentino
 
-🎯 Desenvolvedor Front-end apaixonado por transformar ideias em experiências funcionais e bonitas
-
-💻 Especializado em React, TypeScript, TailwindCSS e Node.js, com forte foco em componentização inteligente, acessibilidade e Atomic Design
-
-🚀 Atualmente liderando o desenvolvimento da plataforma Recrutei, um “LinkedIn reverso” que prioriza habilidades reais, não só currículos
-
-🎨 Entusiasta de UI/UX centrado no usuário, acreditando que design bom é aquele que ninguém precisa explicar
-
-📚 Viciado em aprender, refatorar, e criar soluções elegantes para problemas complexos
+🎯 Desenvolvedor Front-end apaixonado por transformar ideias em experiências funcionais e bonitas </br>
+💻 Especializado em React, TypeScript, TailwindCSS e Node.js, com forte foco em componentização inteligente, acessibilidade e Atomic Design </br>
+🚀 Atualmente liderando o desenvolvimento da plataforma Recrutei, um “LinkedIn reverso” que prioriza habilidades reais, não só currículos </br>
+🎨 Entusiasta de UI/UX centrado no usuário, acreditando que design bom é aquele que ninguém precisa explicar </br>
+📚 Viciado em aprender, refatorar, e criar soluções elegantes para problemas complexos </br>
 
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
@@ -16,6 +12,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=vite)
+</br>
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=nodedotjs)
