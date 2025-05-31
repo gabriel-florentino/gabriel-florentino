@@ -1,9 +1,13 @@
 # 👋 Olá! Eu sou o Gabriel Florentino
 
 🎯 Desenvolvedor Front-end apaixonado por transformar ideias em experiências funcionais e bonitas
+
 💻 Especializado em React, TypeScript, TailwindCSS e Node.js, com forte foco em componentização inteligente, acessibilidade e Atomic Design
+
 🚀 Atualmente liderando o desenvolvimento da plataforma Recrutei, um “LinkedIn reverso” que prioriza habilidades reais, não só currículos
+
 🎨 Entusiasta de UI/UX centrado no usuário, acreditando que design bom é aquele que ninguém precisa explicar
+
 📚 Viciado em aprender, refatorar, e criar soluções elegantes para problemas complexos
 
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
