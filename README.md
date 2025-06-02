@@ -26,7 +26,7 @@
 
 ## 📂 Projetos em Destaque
 
-### 🔹 [**Recrutei**](https://github.com/gabriel-florentino/recruteidev-login)
+### 🔹 [**Recrutei**](https://github.com/gabriel-florentino/login-recruteiiDev)
 **Um LinkedIn reverso baseado em habilidades reais.**  
 Este é o **módulo de login** da plataforma, com foco em segurança, UX e boas práticas.
 
