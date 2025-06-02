@@ -16,7 +16,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat&logo=tailwindcss)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=nodedotjs)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?style=flat&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
 ![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=vite)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
